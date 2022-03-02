@@ -5,7 +5,7 @@ This is an Semester End project i did for my Web Development Subject. I created 
 ## Pages : Login , Signup ,Logout, Home , Browse Products , Feedback , About us.
 
 
-##Languages Used: HTML 5 , CSS ,PHP, MYSQL, JS.
+## Languages Used: HTML 5 , CSS ,PHP, MYSQL, JS.
 
 SCREENSHOTS:
  
